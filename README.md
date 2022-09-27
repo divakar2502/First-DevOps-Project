@@ -1,6 +1,6 @@
 # webAppExample
 Web Application
 
-Project Name : Web Application in Azure DevOps
+Project Name : Web Application
 
-This is a sample web application
+This is a sample web application in Azure DevOps
